@@ -2,4 +2,12 @@
     <string name="app_name">HappyBirthday</string>
     <string name="happy_birthday_text">Happy birthday Max!</string>
     <string name="signature_text">from Mom</string>
+    <string name="phone_icon_content_desc">Phone icon</string>
+    <string name="share_icon_content_desc">Share icon</string>
+    <string name="email_icon_content_desc">Email icon</string>
+    <string name="contact_phone_text">+11(123)444 555 666</string>
+    <string name="contact_share_text">\@Rodionovmax</string>
+    <string name="contact_email_text">rodionovmax90@gmail.com</string>
+    <string name="full_name_text">Maksim Rodionov</string>
+    <string name="title_text">Android Developer</string>
 </resources>
